@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880504671621",
+    "firebase_url": "https://fmate-c23c5.firebaseio.com",
+    "project_id": "fmate-c23c5",
+    "storage_bucket": "fmate-c23c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880504671621:android:5833525155967b9c",
+        "android_client_info": {
+          "package_name": "decodertech.com.flatmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880504671621-egurd2tau1ignddd75s8re9jhav9l5fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "decodertech.com.flatmate",
+            "certificate_hash": "2400f2bcf20125fdddb3ae18a5245d4bc7ab0573"
+          }
+        },
+        {
+          "client_id": "880504671621-dtbm95bk3lcbaigsef7datt5s885spph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCf6DZ5V_AKaEaccXmV1Qz8m47K_ie6AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880504671621-dtbm95bk3lcbaigsef7datt5s885spph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
